@@ -1,0 +1,50 @@
+.kesha {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  align-items: center;
+}
+
+.aloshinka {
+  width: 50%;
+
+}
+
+.aloshinka h1 {
+  font-size: 70px;
+  font-family: sans-serif;
+}
+
+.aloshinka span {
+  color: rgb(72, 72, 145);
+}
+
+.aloshinka p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.aloshinka button {
+  border: 1px solid blue;
+  background-color: blue;
+  color: #fff;
+  padding: 20px 25px;
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 25px;
+}
+
+.artur {
+  width: 50%;
+}
+
+.artur img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.koza {
+  padding: 15px 10px;
+}

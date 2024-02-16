@@ -1,0 +1,33 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.card {
+  width: 100%;
+  background-color: grey;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  align-items: center;
+}
+
+.card1 h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  color: blue;
+}
+
+.card2 {
+  display: flex;
+  gap: 30px;
+}
+
+.card2 a {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
